@@ -44,8 +44,11 @@ B- :-
 
 ## Course BreakUp
 Small Quiz:- 2.5% each. Best 4 of 5. 10% each.
+
 Big Quiz:- 10% each. 3 in total. 30% total.
+
 Minor:- 25%
+
 Major:- 35%
 
 My Course Total:- 10% (Small Quiz) + 25.5% (Big Quiz) + 24% (Minor) +  (Major)
