@@ -51,4 +51,4 @@ Minor:- 25%
 
 Major:- 35%
 
-My Course Total:- 10% (Small Quiz) + 25.5% (Big Quiz) + 24% (Minor) +  (Major)
+My Course Total:- 93.5% = 10% (Small Quiz) + 25.5% (Big Quiz) + 24% (Minor) +  34% (Major)
